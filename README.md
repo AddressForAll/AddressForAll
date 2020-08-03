@@ -24,3 +24,14 @@ O [Kanban eletrônico](https://en.wikipedia.org/wiki/Kanban_(development)) é co
 
 ## Inglês ou português?
 Boa pergunta, ainda estamos pensando nisso... Por hora é mais simples e barato em português, mas alguns docs e issues já nascem em inglês para não dar trabalho depois.
+
+## Tutoriais indicados
+
+* https://github.com/features/project-management/
+
+     -  https://docs.github.com/en/github/managing-your-work-on-github/creating-a-project-board#creating-an-organization-wide-project-board
+     
+* https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards
+
+* ...
+
