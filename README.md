@@ -21,3 +21,6 @@ O [Kanban eletrônico](https://en.wikipedia.org/wiki/Kanban_(development)) é co
 * [WS](https://github.com/AddressForAll/WS/issues): *Web Server*, software embarcado no nosso servidor.
 
 * [Digital Preservartion Brasil](https://github.com/AddressForAll/digital-preservartion-BR/issues): preservação digital de longa duração (perspectiva de décadas)... É mais do que um simples "backup dos mapas".
+
+## Inglês ou português?
+Boa pergunta, ainda estamos pensando nisso... Por hora é mais simples e barato em português, mas alguns docs e issues já nascem em inglês para não dar trabalho depois.
