@@ -1,5 +1,8 @@
 # AddressForAll
-Repositório de refererência para issues e gestão geral dos projetos estratégicos e do Instituto AddressForAll.
+
+Este repostório se presta às duas utilizações do nome AddressForAll:
+* **Projet AddressForAll**: git de dados ou documentos de uso geral do projeto
+* Repositório de refererência para [*issues*](https://github.com/AddressForAll/AddressForAll/issues) do **Instituto AddressForAll**.
 
 -----
 
